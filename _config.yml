@@ -50,6 +50,10 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name is Brian. I am a current UC San Diego student majoring in computer science. Go Tritons! Besides my formal studies, I am an Eagle Scout and really enjoy bowling whenever possible.
 
+  My top skills are: <mark>Software Engineering</mark>, <mark>Leadership</mark>, <mark>Self-motivation</mark>, and <mark>Organization</mark>
+
+  I hope to get a job in the programming field with a possible specialization in artificial intelligence but I am open to more areas of work
+
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
