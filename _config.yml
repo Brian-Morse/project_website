@@ -73,7 +73,7 @@ content:
         quote: >
           This can solve any sized Nonogram puzzle and was written using Java
         description: |
-          In an attempt to learn about how to make a basic artificial intelligence that can solve a puzzle, I found that I was playing Nonogram almost every day, so I decided I tackle it. It became a very intriguing project as I found and researched new ways to quickly find the solution without using any brute force
+          In an attempt to learn about how to make a basic artificial intelligence that can solve a puzzle, I found that I was playing Nonogram almost every day, so I decided to tackle it. It became a very intriguing project as I found and researched new ways to quickly find the solution without using any brute force
 
       - layout: top-middle
         title: 2048 Game
