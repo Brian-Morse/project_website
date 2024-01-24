@@ -48,7 +48,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: MorseBrian.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name is Brian. I am a current UC San Diego student majoring in computer science. Go Tritons! Besides my formal studies, I am an Eagle Scout and really enjoy bowling whenever possible.
+  Hi, my name is Brian. I am a current UC San Diego student majoring in computer science. Proud to be a Triton! Besides my formal studies, I am an Eagle Scout and really enjoy bowling whenever possible.
 
   My top skills are: <mark>Software Engineering</mark>, <mark>Leadership</mark>, <mark>Self-motivation</mark>, and <mark>Organization</mark>
 
@@ -58,6 +58,16 @@ content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
+      - layout: top-middle
+        title: YouTube Game Reviewer
+        link: github.com/acmucsd-projects/fa23-podmates-ai-team-1
+        # link_text: Project Website
+        quote: >
+          Sentiment Analysis AI model that rates games based on YouTube Comments
+        description: | # this will include new lines to allow paragraphs
+          I participated as one of the lead developers in a team of six to develop this AI model and Chrome extension. When on a YouTube link and is activated, the Chrome extension will analyze the top 100 comments to get an understanding of the feeling about the video game that the video discusses and convey a percentage score and the top three feelings
+
+    
       - layout: top-middle
         title: Chess
         link: github.com/Brian-Morse/Chess
