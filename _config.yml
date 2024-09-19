@@ -60,7 +60,7 @@ content:
     content:
       - layout: top-middle
         title: FundNeighbors
-        link: https://github.com/Brian-Morse/FundNeighbors
+        link: github.com/Brian-Morse/FundNeighbors
         quote: >
           A central hub of fundraisers to increase awareness and success of fundraisers held by schools and clubs
         description: |
