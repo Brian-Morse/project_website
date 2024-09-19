@@ -59,6 +59,22 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
+        title: FundNeighbors
+        link: https://github.com/Brian-Morse/FundNeighbors
+        quote: >
+          A central hub of fundraisers to increase awareness and success of fundraisers held by schools and clubs
+        description: |
+          In a cooperative effort with my father, I was the sole developer of the front-end capabilities of the FundNeighbors website. It was my first time making a fully usable website with the intent to be used. This website was developed by taking advantage of the Next.js libraries. The site has many features including searching, CRUD actions on events, a login system, and database manipulation. I improved my knowledge of web development, deployment, and debugging tough web complications.
+      
+      - layout: top-middle
+        title: Developer Journal
+        link: github.com/cse110-sp24-group2/cse110-sp24-group2
+        quote: >
+          Developer Journal app that can be installed and used to track work done by a software engineer
+        description: |
+          I was a team leader in this group project for a course at UCSD. It includes a navigation calendar, a markdown editor, a search mechanism, and a to-do list. The project mainly focused on the development processes (Agile, Git Best Practices, etc.) and getting comfortable with web tools and languages. As a leader, I also had to coordinate meetings and provide guidance to the other ten members of the team. I learned to balance those needs while still creating good code myself.
+    
+      - layout: top-middle
         title: YouTube Game Reviewer
         link: github.com/acmucsd-projects/fa23-podmates-ai-team-1
         # link_text: Project Website
