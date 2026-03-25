@@ -46,13 +46,13 @@ additional_links:
 
 # About Section
 # about_title: About Me
-about_profile_image: MorseBrian.jpg
+about_profile_image: MorseBrian.jpeg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name is Brian. I am a current UC San Diego student majoring in computer science. Proud to be a Triton! Besides my formal studies, I am an Eagle Scout and really enjoy bowling whenever possible.
+  Hi, my name is Brian. I’m a graduate student in Computer Science at UC San Diego, specializing in Artificial Intelligence. I have experience developing full-stack platforms, backend pipelines, and machine learning models within regulated frameworks. I also enjoy communicating complex ideas, drawing on my tutoring experience and speaking on panels. I’m always eager to connect with other engineers to explore opportunities in ML/AI and regulated tech.
 
-  My top skills are: <mark>Software Engineering</mark>, <mark>Leadership</mark>, <mark>Self-motivation</mark>, and <mark>Organization</mark>
+  My top skills are: <mark>Software Engineering</mark>, <mark>Machine Learning</mark>, <mark>Leadership</mark>, and <mark>Regulated Development</mark>
 
-  I hope to get a job in the programming field with a possible specialization in artificial intelligence but I am open to more areas of work
+  Below are a few of my personal projects, developed individually or on teams. Please reach out if you have any questions
 
 content:
   - title: Projects # Title for the section
